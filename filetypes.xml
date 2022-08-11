@@ -3,8 +3,6 @@
     <extensionMap>
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping pattern="application.yaml" approved="true" type="YAML" />
-      <removed_mapping pattern="application.yml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
