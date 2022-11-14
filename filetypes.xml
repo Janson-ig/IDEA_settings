@@ -9,10 +9,6 @@
       <removed_mapping ext="json" approved="true" type="JSON" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
-      <removed_mapping pattern="application.yaml" approved="true" type="YAML" />
-      <removed_mapping pattern="application.yml" approved="true" type="YAML" />
-      <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
-      <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
       <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
