@@ -1,0 +1,9 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="dev.eltonsandre.intellij.spring.assistant.plugin" />
+      </list>
+    </option>
+  </component>
+</application>

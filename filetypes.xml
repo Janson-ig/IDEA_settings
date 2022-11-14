@@ -1,15 +1,19 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="ddl" type="OdpsQL" />
-      <mapping ext="odpsql" type="OdpsQL" />
-      <mapping ext="sql" type="OdpsQL" />
-      <mapping ext="q" type="OdpsQL" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="json" approved="true" type="JSON" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
-      <mapping ext="plantuml" type="PlantUML file" />
+      <removed_mapping pattern="application.yaml" approved="true" type="YAML" />
+      <removed_mapping pattern="application.yml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
+      <mapping ext="ddl" type="OdpsQL" />
+      <mapping ext="odpsql" type="OdpsQL" />
+      <mapping ext="q" type="OdpsQL" />
+      <mapping ext="sql" type="OdpsQL" />
     </extensionMap>
   </component>
 </application>
